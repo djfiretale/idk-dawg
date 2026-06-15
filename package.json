@@ -1,0 +1,18 @@
+{
+  "name": "voxel-game",
+  "version": "1.0.0",
+  "description": "A Minecraft-like voxel sandbox game",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^r128"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
